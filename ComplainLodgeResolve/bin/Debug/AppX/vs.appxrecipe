@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SKILLSTER</Machine>
+    <WindowsUser>tejas</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>D14A1174C85D0CB3285015470628E5FA145228ED33524156BC729E6145648CDE</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>95d92769-91bf-4a30-8713-3f3dc4f198d1_1.0.0.0_neutral__yg07qd7npfn2t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>95d92769-91bf-4a30-8713-3f3dc4f198d1_yg07qd7npfn2t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>95d92769-91bf-4a30-8713-3f3dc4f198d1</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=tejas</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\studies\Windows 8 Applications\ComplainLodgeResolve\ComplainLodgeResolve\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-30T13:25:44.301</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\studies\Windows 8 Applications\ComplainLodgeResolve\ComplainLodgeResolve\bin\Debug\ComplainLodgeResolve.exe">
+      <PackagePath>ComplainLodgeResolve.exe</PackagePath>
+      <Modified>2014-07-30T13:25:43.619</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\studies\Windows 8 Applications\ComplainLodgeResolve\ComplainLodgeResolve\bin\Debug\ComplainLodgeResolve.pdb">
+      <PackagePath>ComplainLodgeResolve.pdb</PackagePath>
+      <Modified>2014-07-30T13:25:43.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\studies\Windows 8 Applications\ComplainLodgeResolve\ComplainLodgeResolve\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\studies\Windows 8 Applications\ComplainLodgeResolve\ComplainLodgeResolve\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\studies\Windows 8 Applications\ComplainLodgeResolve\ComplainLodgeResolve\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\studies\Windows 8 Applications\ComplainLodgeResolve\ComplainLodgeResolve\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\studies\Windows 8 Applications\ComplainLodgeResolve\ComplainLodgeResolve\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-06-12T10:54:38.209</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\studies\Windows 8 Applications\ComplainLodgeResolve\ComplainLodgeResolve\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T10:49:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\studies\Windows 8 Applications\ComplainLodgeResolve\ComplainLodgeResolve\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-06-30T07:43:16.405</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\studies\Windows 8 Applications\ComplainLodgeResolve\ComplainLodgeResolve\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-06-27T06:58:51.444</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
